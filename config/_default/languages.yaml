@@ -33,7 +33,7 @@ ko:
         url: courses/
         weight: 60
       - name: 책
-        url: '#book'
+        url: 'book/'
         weight: 70
 
 
