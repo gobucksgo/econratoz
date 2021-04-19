@@ -32,8 +32,8 @@ ko:
       - name: 코스
         url: courses/
         weight: 60
-      - name: 연락처
-        url: '#contact'
+      - name: 책
+        url: '#book'
         weight: 70
 
 
