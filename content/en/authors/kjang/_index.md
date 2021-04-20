@@ -30,7 +30,7 @@ social:
   link: /kjang@inha.ac.kr
 - icon: graduation-cap
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kyungho-Jang-3
+  link: https://www.scopus.com/authid/detail.uri?authorId=7201796260
 - icon: github
   icon_pack: fab
   link: https://github.com/gobucksgo
