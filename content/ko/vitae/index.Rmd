@@ -1,6 +1,6 @@
 ---
-title: "Curriculum Vitae"
-author: "Kyungho Jang"
+title: "약력"
+author: "장경호"
 # date: '2021-04-20T21:13:14-05:00'
 output:
   pdf_document: default
@@ -16,82 +16,95 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 
 ***
-**Office address**
+**주소**
 
-Department of Social Studies Education  
-Inha University  
-100 Inha-ro, Michuhol-gu,  
-Incheon 22212, KOREA  
+22212  
+인천광역시 미추홀구 인하로 100  
+인하대학교 사범대학 사회교육과  
 
-Telephone: +82-32-860-7861  
-Fax: +82-32-876-7859  
-Email: [kjang@inha.ac.kr](kjang@inha.ac.kr)  
-URL: [https://www.kjang.com](https://www.kjang.com)
-
-
-***
-**Education**
-
-- Ph.D in Economics, The Ohio-State University, June 2002.
-
-- M.A. in Economics, The Ohio State University, December 1998.
-
-- M.A. in Economics, Chung-Ang University, Korea, August 1992.
-
-- B.A. in Engineering of Electronics, Seoul National University, Korea, February 1989.
+연구실: 서호관 216호  
+Tel: 032-860-7861   
+Fax: 032-876-7859   
+Email: [kjang@inha.ac.kr](mailto:kjang@inha.ac.kr)  
+홈페이지: [https://www.kjang.com](https://www.kjang.com)
 
 
 ***
-**Ph.D. Dissertation**
+**학력**
+
+- 경제학 박사, 미국 오하이오 주립대학교, 2002년 6월.
+
+- 경제학 석사, 미국 오하이오 주립대학교, 1998년 12월.
+
+- 경제학 석사, 중앙대학교, 1992년 8월.
+
+- 전자공학 학사, 서울대학교, 1988년 2월
+
+***
+**박사 학위 논문**
 
 - Three Essays on Structural Vector Error Correction Models with Short-Run and Long-Run Restrictions.  
-    Dissertation Supervisor: Masao Ogaki 
+    지도 교수: Masao Ogaki 
 
 
 ***
-**Fellowship, Awards, and Honors**
+**장학금, 표창**
 
-- Best Teaching Awards, Inha Universtity, Spring 2009.
+- 우수강의상, 인하대학교, 2009년 1학기.
 
-- Program for Enhancement of Graduate Studies Dissertation Fellowship, Department of Economics, The Ohio State University, Winter 2002.
+- 대학원 논문 향상 장학금 프로그램, 미국 오하이오 주립대학교 경제학과, 2002년 겨울 학기.
 
-- Program for Enhancement of Graduate Studies Dissertation Fellowship, Department of Economics, The Ohio State University, Summer 2001.
+- 대학원 논문 향상 장학금 프로그램, 미국 오하이오 주립대학교 경제학과, 2001년 여름 학기.
 
-- The 2nd Place Award in the 15th Annual Edward F. Hayes Graduate Research Forum, The Ohio State University, 2001.
+- 우수상(2위), 제15회 정기 에드워드 에프 헤이즈 대학원 연구 포럼, 미국 오하이오 주립대학교, 2001년.
 
-- The Ohio State University Alumni Research Award, The Ohio State University, 2000-2001.
-
-
-***
-**Financial Support**
-
-- Inha University Research Grant, 2005-2016.
-
-- Faculty Development Grant, The University of Alabama at Birmingham, 2004-2005.
-
-- Faculty Development Grant, The University of Alabama at Birmingham, 2004-2005.
-
-- Summer Research Grant, Department of Finance, Economics, and QM, The University of Alabama at Birmingham, Summer 2004.
-
-- Summer Research Grant, Department of Finance, Economics, and QM, The University of Alabama at Birmingham, Summer 2003.
-
-- Graduate Teaching Assistant, Department of Economics, The Ohio State University, January 1998 – June 2002.
+- 동창회 연구상, 미국 오하이오 주립대학교, 2000년 - 2001년.
 
 
 ***
-**Research Interests**
+**연구비 지원**
 
-- Money-Macroeconomics
+- 인하대학교 일반교수 교내연구비, 2007 - 2021.
 
-- Time Series Econometrics
+- 인하대학교 신진교수 교내연구비, 2005 - 2006.
 
-- Economics Education
+- 교수 연구비, 미국 앨라배마 대학교(버밍햄), 2004년 - 2005년.
+
+- 여름학기 교수 연구비, 미국 앨라배마 대학교(버밍햄) 재무, 경제 및 양적방법학과, 2004년.
+
+
+- 여름학기 교수 연구비, 미국 앨라배마 대학교(버밍햄) 재무, 경제 및 양적방법학과, 2003년.
+
+
+- 대학원 강의 조교, 미국 오하이오 주립대학교 경제학과, 1998년 1월 - 2002년 6월.
+
+
+***
+**관심 분야**
+
+- 통화금융 
+
+- 시계열 분석 
+
+- 경제교육
  
 
 
 ***
-**Professional Activities**
+**주요 경력**
 
+- 교수, 인하대학교 사회교육과, 2012. 9 – 현재. 
+
+- 부교수, 인하대학교 사회교육과, 2007. 9 – 2012. 8. 
+
+- 조교수, 인하대학교 사회교육과, 2005. 3 –2007. 8. 
+
+- Assistant Professor, Department of Finance, Economics and Quantitative Methods, University of Alabama at Birmingham, August 2002 – January 2005. 
+
+- Graduate Teaching Assistant, Department of Economics, The Ohio State University, January 1998 – June 2002. 
+연구원, 금융연구원, 1996. 4 – 1997. 7. 
+연구원, 대우경제연구소, 1994. 4 – 1996. 4. 
+연구원, 동양경제연구소, 1991. 12 – 1994. 4. 
 - Professor, Department of Social Studies Education, Inha University, September 2012 – present.
 
 - Associate Professor, Department of Social Studies Education, Inha University, September 2007 – August 2012.
