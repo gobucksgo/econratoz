@@ -27,26 +27,17 @@ role: Ph.D in Economics, Professor of Social Studies Education
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: /kjang@inha.ac.kr
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.scopus.com/authid/detail.uri?authorId=7201796260
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/gobucksgo
 superuser: true
 title: Kyungho JANG
 ---
 
 Kyungho Jang is a professor of department of social studies education at Inha University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/vitae_jang-2013-08-05.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="cv" pack="ai" >}} [Curriculum Vitae](vitae/)
