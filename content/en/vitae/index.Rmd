@@ -25,7 +25,7 @@ Incheon 22212, KOREA
 
 Telephone: +82-32-860-7861  
 Fax: +82-32-876-7859  
-Email: [kjang@inha.ac.kr](kjang@inha.ac.kr)  
+Email: [kjang@inha.ac.kr](mailto:kjang@inha.ac.kr)  
 URL: [https://www.kjang.com](https://www.kjang.com)
 
 
