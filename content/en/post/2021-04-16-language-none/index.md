@@ -1,5 +1,5 @@
 ---
-title: languate - none
+title: language - none
 author: admin
 date: '2021-04-16'
 slug: languate-none
