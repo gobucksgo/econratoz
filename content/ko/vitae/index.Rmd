@@ -111,7 +111,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 
 ***
-**Services**
+**주요 봉사**
 
 - 위원, 인하대학교 교원인사위원회, 2020. 3. - 현재.
 
@@ -168,7 +168,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 
 ***
-**Teaching Experience**
+**강의**
 
 - 경제교육론, 인하대학교: 2006-1; 2007-1, 2016-2(팀티칭). 
 
@@ -360,15 +360,15 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 - 고등학교 경제(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2019. 3.
 
-고등학교 경제 – 교사용 지도서(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2019. 3.
+- 고등학교 경제 – 교사용 지도서(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2019. 3.
 
 - 고등학교 경제(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2014. 3.
 
-고등학교 경제 – 교사용 지도서(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2014. 3.
+- 고등학교 경제 – 교사용 지도서(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2014. 3.
 
 - 고등학교 경제(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2012. 3.
 
-고등학교 경제 – 교사용 지도서(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2012. 3.
+- 고등학교 경제 – 교사용 지도서(공저자: 박형준, 한진수, 정석민, 김경모, 한경동), 천재교육, 2012. 3.
 
 - KERI 2010 한국경제 거시계량모형(공저자: 조경엽, 김창배), 한국경제연구원, 2011. 7.
 
@@ -408,7 +408,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 
 ***
-**Conference Presentations**
+**학술대회 발표**
 
 - “The Effects of Ambiguity on the Willingness-To-Pay, the Willingness-To-Accept and its Gap,” 2015 Economics Joint Conference at Yonsei University in Korea, Korea Economic Education Association and Korean Economic Association, February 2015.
 
