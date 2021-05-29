@@ -1,6 +1,6 @@
 ---
 date: "`r Sys.Date()`"
-external_link: https://econrbook.netlify.app/
+external_link: https://econrbook.kjang.com/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
