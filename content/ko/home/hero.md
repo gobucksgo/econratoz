@@ -12,6 +12,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
-kjang-4
+From the Chola Pass at the 9th day in the Himalayas at October 23, 2018.
 
 
